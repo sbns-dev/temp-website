@@ -4,7 +4,7 @@ export default {
 	theme: {
 		extend: {
 			fontFamily: {
-				sfpro: ["SF Pro Display", "sans-serif"],
+				inter: ["Inter", "sans-serif"],
 			},
 		},
 		screens: {
