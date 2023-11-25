@@ -1,11 +1,12 @@
 {
-	"name": "landing-page-for-remine",
+	"homepage": "https://sbns-dev.github.io/temp-website/",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
+		"predeploy": "npm run build",
 		"lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
 		"preview": "vite preview",
 		"deploy": "gh-pages -d dist"
