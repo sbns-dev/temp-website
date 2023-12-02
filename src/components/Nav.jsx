@@ -29,7 +29,7 @@ const Nav = () => {
 				}
 			>
 				<h1 className="w-full text-3xl font-bold text-[#00df9a] m-4">
-					REMINE-INDIA
+				SBNS HEALTHCARE
 				</h1>
 				<ul className="uppercase p-4">
 					<li className="p-4 border-b border-gray-600">Home</li>
